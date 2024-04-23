@@ -19,7 +19,7 @@
 		"indent": ["off"],
 		"linebreak-style": ["error", "windows"],
 		"quotes": ["error", "single"],
-		"semi": ["error", "near"]
+		"semi": ["error", "never"]
 	},
 	"ignorePatterns": [
 		"node_modules/",
