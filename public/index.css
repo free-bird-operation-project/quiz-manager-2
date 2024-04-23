@@ -98,9 +98,9 @@ body {
 }
 
 #emoji {
-  font-size: 5em;
-  transition: transform 0.2s ease;
-  transform-origin: center;
+	font-size: 5em;
+	transition: transform 0.2s ease;
+	transform-origin: center;
 }
 
 button {
