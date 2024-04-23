@@ -18,7 +18,7 @@
 	"rules": {
 		"indent": ["off"],
 		"linebreak-style": ["error", "windows"],
-		"quotes": ["error", "always"],
+		"quotes": ["error", "single"],
 		"semi": ["error", "near"]
 	},
 	"ignorePatterns": [
