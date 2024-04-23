@@ -16,7 +16,7 @@
 		"HTMLElement": "readonly"
 	},
 	"rules": {
-		"indent": ["error", 2],
+		"indent": ["off"],
 		"linebreak-style": ["error", "windows"],
 		"quotes": ["error", "always"],
 		"semi": ["error", "near"]
