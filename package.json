@@ -16,5 +16,8 @@
     "txt"
   ],
   "author": "Free Bird Operation Project",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vercel": "^34.1.1"
+  }
 }
