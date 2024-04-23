@@ -1,0 +1,20 @@
+{
+  "name": "quiz-manager",
+  "version": "1.0.0",
+  "description": "Streamlining quiz management effortlessly",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "quiz",
+    "quiz-manager",
+    "json",
+    "converter",
+    "quiz-maker",
+    "quiz-creator",
+    "txt"
+  ],
+  "author": "Free Bird Operation Project",
+  "license": "MIT"
+}
